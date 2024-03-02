@@ -1,6 +1,6 @@
 # Michael Korotchenko
 
-DevOps Engineer / Python Developer
+Junior DevOps Engineer 
 
 ## Contact
 

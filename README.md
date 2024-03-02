@@ -4,7 +4,7 @@ Junior DevOps Engineer
 
 ## Contact
 
-- **Phone**: +380667322445 (Telegram/Whatsapp)
+- **Phone**: +380667322445 (Telegram/Whatsapp) :phone:
 - **Email**: mike.voznyanskix@gmail.com
 - **GitHub**: [scottshwidow](https://github.com/scottshwidow)
 - **LinkedIn**: [michael-korotchenko](https://linkedin.com/in/michael-korotchenko-748504271)

@@ -2,40 +2,39 @@
 
 Junior DevOps Engineer 
 
-## Contact
-
-- **Phone**: +380667322445 (Telegram/Whatsapp) :phone:
-- **Email**: mike.voznyanskix@gmail.com
-- **GitHub**: [scottshwidow](https://github.com/scottshwidow)
+## Contact :notebook: :telephone_receiver: :speech_balloon:
+ 
+- **Email**: mike.voznyanskix@gmail.com 
+- **GitHub**: [scottshwidow](https://github.com/scottshwidow) 
 - **LinkedIn**: [michael-korotchenko](https://linkedin.com/in/michael-korotchenko-748504271)
 
-## Achievements
+## Achievements :white_check_mark:
 
 - DevOps practical intensive by Global Logic
 - AWS Certified Cloud Practitioner
 - Linux Basics Course by Linux Foundation
 
-## Languages
+## Languages :earth_americas:
 
 - English
 - Russian
 - Ukrainian
 
-## Ideal Stack
+## Ideal Stack :gem:
 
 - Python
 - Kubernetes
 - GitOps
 - Cloud
 
-## Experience
+## Experience :office:
 
 - 2020 - Present: Data Science / Computer Vision at Outforz Data
   - Data Parsing / Data Annotator
 - 2023 - Present: DevOps Trainee at Right&Above
   - Python / Bash / Active Directory / System Administration / Linux
 
-## Skills
+## Skills :wrench:
 
 - Linux
 - Terraform
@@ -48,7 +47,7 @@ Junior DevOps Engineer
 - Active Directory
 - EKS/ECS + Fargate
 
-## Interests
+## Interests :game_die:
 
 - Chess
 - SRE (Site Reliability Engineering)

@@ -1,33 +1,56 @@
-Michael Korotchenko
-Ukraine, Kyiv
+# Michael Korotchenko
 
-Email: mike.voznyanskix@gmail.com
-Phone: +380(66)***-**-**
+DevOps Engineer / Python Developer
 
-Experience:
+## Contact
 
-- from 2019 to 2022
-A small Kyiv-based outsourcing company mainly focused on Data Science/Computer Vision projects
+- **Phone**: +380667322445 (Telegram/Whatsapp)
+- **Email**: mike.voznyanskix@gmail.com
+- **GitHub**: [scottshwidow](https://github.com/scottshwidow)
+- **LinkedIn**: [michael-korotchenko](https://linkedin.com/in/michael-korotchenko-748504271)
 
-  Stack:
-    - Python (Selenium, Pandas, Pytest, boto3)
-    - AWS (ECS/ECS+Fargate, EC2, S3, Aurora, AWS SDK)
-    - Docker
-    - Git/GitHub
-    - SQL
-    - Bash
+## Achievements
 
- Ideal Stack:
+- DevOps practical intensive by Global Logic
+- AWS Certified Cloud Practitioner
+- Linux Basics Course by Linux Foundation
 
-  - Python
-  - Kubernetes
-  - Git Ops
-  - Cloud
+## Languages
 
-Interests:
-- chess
-- devops/sre
-- music
-- languages
+- English
+- Russian
+- Ukrainian
 
+## Ideal Stack
 
+- Python
+- Kubernetes
+- GitOps
+- Cloud
+
+## Experience
+
+- 2020 - Present: Data Science / Computer Vision at Outforz Data
+  - Data Parsing / Data Annotator
+- 2023 - Present: DevOps Trainee at Right&Above
+  - Python / Bash / Active Directory / System Administration / Linux
+
+## Skills
+
+- Linux
+- Terraform
+- Docker
+- GitHub Actions
+- AWS/GCP
+- SQL
+- Python
+- Kubernetes
+- Active Directory
+- EKS/ECS + Fargate
+
+## Interests
+
+- Chess
+- SRE (Site Reliability Engineering)
+- Languages
+- Music

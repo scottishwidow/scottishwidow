@@ -1,12 +1,12 @@
 # Michael Korotchenko
 
-DevOps Engineer
+DevOps Engineer — Kyiv, Ukraine
 
 ## About
 
 Adept of true Continuous Integration and Continuous Deployment.
 
-`Test in prod or live a lie ©`
+> `Test in prod or live a lie ©`
 
 Core contributor at [meetsafe.org](https://www.meetsafe.org).
 
@@ -16,4 +16,4 @@ Core contributor at [meetsafe.org](https://www.meetsafe.org).
 - **Container Orchestration**
 - **Cloud & Automation**
 - **Developer Tooling**
-- **CICD & SSDLC**
+- **CI/CD & SSDLC**

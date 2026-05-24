@@ -8,7 +8,7 @@ Adept of true Continuous Integration and Continuous Deployment.
 
 > `Test in prod or live a lie ©`
 
-Core contributor at [meetsafe.org](https://www.meetsafe.org).
+One of the core contributors at [meetsafe.org](https://www.meetsafe.org).
 
 ## Focus Areas
 
